@@ -19,6 +19,10 @@
       .row1 {
         background-color:lightgrey;
       }
+      td {
+        border:black;
+        padding:4px;
+      }
     </style>
     <table>
       <th colspan="3">Schedule</th>
