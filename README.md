@@ -20,8 +20,8 @@
         background-color:lightgrey;
       }
       td {
-        border:black;
-        padding:4px;
+        border:solid 1px black;
+        padding:10px;
       }
     </style>
     <table>
